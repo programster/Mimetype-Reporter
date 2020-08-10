@@ -1,0 +1,8 @@
+{
+    "require": {
+        "programster/core-libs": "^1.7",
+        "programster/upload-file-manager": "^1.0",
+        "programster/abstract-view": "^1.0",
+        "irap/autoloader": "1.*"
+    }
+}
